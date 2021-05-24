@@ -10,7 +10,7 @@ E-Commerce Backend
 - [Support](#support)
 
 ## Introduction
-This is a node.js application that companies can use to track their employee's info.
+This is a MySQL database that uses Node.js to run the backend of a E-Commerce site.
 
 ## Install
 
